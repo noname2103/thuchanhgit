@@ -11,6 +11,7 @@ namespace ASP_MVC.Controllers
         // GET: Default
         public ActionResult Index()
         {
+            int m = 13;
             return View();
         }
     }
